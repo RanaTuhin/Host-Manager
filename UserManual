@@ -14,4 +14,11 @@ After running the script, you’ll be prompted:
 
 ### 🧑‍💻 Add a Domain
 
-It's Good to Go !
+
+Mac / Linux
+1. chmod +x HostManager.sh
+2. sudo ./HostManager.sh
+
+It will ask for Local Domain Name
+
+# & It's Good to Go !
